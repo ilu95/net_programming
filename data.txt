@@ -1,0 +1,16 @@
+Tue Apr 18 06:20:31 2023: Device1: Temp=29, Humid=10, Lilum=74
+Tue Apr 18 06:20:42 2023: Device1: Temp=7, Humid=30, Lilum=118
+Tue Apr 18 06:21:46 2023: Device1: Temp=33, Humid=93, Lilum=126
+Tue Apr 18 06:21:46 2023: Device2: Heartbeat=121, Steps=3624, Cal=2940
+Tue Apr 18 06:21:47 2023: Device2: Heartbeat=138, Steps=4670, Cal=3433
+Tue Apr 18 06:21:47 2023: Device1: Temp=4, Humid=57, Lilum=93
+Tue Apr 18 06:21:48 2023: Device1: Temp=19, Humid=35, Lilum=95
+Tue Apr 18 06:21:48 2023: Device2: Heartbeat=85, Steps=5882, Cal=3224
+Tue Apr 18 06:21:48 2023: Device1: Temp=16, Humid=62, Lilum=78
+Tue Apr 18 06:21:48 2023: Device2: Heartbeat=104, Steps=5798, Cal=3448
+Tue Apr 18 06:21:49 2023: Device1: Temp=16, Humid=50, Lilum=98
+Tue Apr 18 06:21:49 2023: Device2: Heartbeat=95, Steps=3004, Cal=1819
+Tue Apr 18 06:21:49 2023: Device1: Temp=19, Humid=43, Lilum=83
+Tue Apr 18 06:21:49 2023: Device2: Heartbeat=113, Steps=4335, Cal=1235
+Tue Apr 18 10:44:39 2023: Device1: Temp=9, Humid=87, Lilum=127
+Tue Apr 18 10:44:40 2023: Device1: Temp=19, Humid=41, Lilum=79
